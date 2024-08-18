@@ -1,0 +1,6 @@
+================================================================================
+Glossário
+
+Barco: (Embarcação) construção feita de madeira, ferro, aço, fibra de vidro, alumínio ou da combinação desses e outros materiais que flutua.
+Bote: (chalana, dingue, inflável) embarcações miúdas de no máximo 5m (15ft).
+Navio: (nau, nave) embarcações de porte maior que 20m (65ft).
